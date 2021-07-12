@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "experimentalDecorators": true,
+      "target": "es5",
+      "outDir": "./dist",
+      "strict": true,                           
+      "strictPropertyInitialization": false,
+      "esModuleInterop": true,                  
+      "skipLibCheck": true,                    
+      "forceConsistentCasingInFileNames": true
+    }
+  }
